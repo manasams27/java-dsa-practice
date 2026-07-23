@@ -1,9 +1,17 @@
 # Java DSA Practice
 
-## Day 01
+## Day-1
 
 - EvenOrOdd.java
 - LargestOf3Numbers.java
 - ReverseNumber.java
 - SumOfDigit.java
 - Swap2Numbers.java
+
+## Day-2
+
+-FactorialOfNumber.java
+-Fibonacci.java
+-NumberOfDigits.java
+-Palindrome.java
+-PrimeNumber.java
