@@ -10,8 +10,8 @@
 
 ## Day-2
 
--FactorialOfNumber.java
--Fibonacci.java
--NumberOfDigits.java
--Palindrome.java
--PrimeNumber.java
+- FactorialOfNumber.java
+- Fibonacci.java
+- NumberOfDigits.java
+- Palindrome.java
+- PrimeNumber.java
