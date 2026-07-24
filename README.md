@@ -15,3 +15,11 @@
 - NumberOfDigits.java
 - Palindrome.java
 - PrimeNumber.java
+
+## Day-3
+
+- ArmstrongNumber.java
+- CountEvenAndOdd.java
+- Employee.java
+- GCD.java
+- Student.java
