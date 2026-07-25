@@ -23,3 +23,11 @@
 - Employee.java
 - GCD.java
 - Student.java
+
+## Day-4
+
+- Calculator.java
+- FrequencyOfNumber.java
+- LCM.java
+- PerfectNumber.java
+- Student.java
