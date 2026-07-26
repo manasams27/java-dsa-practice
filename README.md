@@ -31,3 +31,12 @@
 - LCM.java
 - PerfectNumber.java
 - Student.java
+
+## Day-5
+
+- Animal.java
+- Dog.java
+- HarshadNumber.java
+- Person.java
+- StrongNumber.java
+- Student.jav
