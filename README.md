@@ -39,4 +39,4 @@
 - HarshadNumber.java
 - Person.java
 - StrongNumber.java
-- Student.jav
+- Student.java
