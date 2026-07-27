@@ -40,3 +40,11 @@
 - Person.java
 - StrongNumber.java
 - Student.java
+
+## Day-6
+
+- AutomorphicNumber.java
+- Employee.java
+- NeonNumber.java
+- SpyNumber.java
+- Vehicle.java
