@@ -48,3 +48,11 @@
 - NeonNumber.java
 - SpyNumber.java
 - Vehicle.java
+
+## Pattern Problems
+
+- HalfRectangle.java
+- HallowRectangle.java
+- InvertedHalfPyramid.java
+- NumberPattern.java
+- SolidRectangle.java
