@@ -51,8 +51,13 @@
 
 ## Pattern Problems
 
+- BinaryNumberedTriangle.java
+- ContinuousNumberSquare.java
+- FloydsTriangle.java
 - HalfRectangle.java
 - HallowRectangle.java
 - InvertedHalfPyramid.java
 - NumberPattern.java
 - SolidRectangle.java
+- Numbers.java
+- RepeatingNumberpattern.java
