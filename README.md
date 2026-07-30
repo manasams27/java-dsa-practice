@@ -61,3 +61,7 @@
 - SolidRectangle.java
 - Numbers.java
 - RepeatingNumberpattern.java
+- ButterflyPattern.java
+- InvertedFullPyramid.java
+- RepeatingAlphabetPattern.java
+- StarPattern.java
