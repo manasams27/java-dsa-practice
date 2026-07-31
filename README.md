@@ -7,6 +7,8 @@
 - ReverseNumber.java
 - SumOfDigit.java
 - Swap2Numbers.java
+- MultiplicationTable.java
+- SumOfNNaturalNumbers.java
 
 ## Day-2
 
