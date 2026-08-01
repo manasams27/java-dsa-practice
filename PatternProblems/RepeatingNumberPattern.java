@@ -1,5 +1,5 @@
 import java.util.*;
-public class RepeatingNumberPttern {
+public class RepeatingNumberPattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = 5;

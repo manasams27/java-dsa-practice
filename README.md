@@ -67,3 +67,17 @@
 - InvertedFullPyramid.java
 - RepeatingAlphabetPattern.java
 - StarPattern.java
+
+## Arrays
+
+- ArrayElements.java
+- LargestArrayElements.java
+- SmallestArrayElements.java
+- SumOfArrayElements.java
+
+## 2D-Arrays
+
+- LargestArrayElements.java
+- PrintArrayElements.java
+- SmallestArrayElements.java
+- SumOfArrayElements.java
