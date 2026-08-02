@@ -74,6 +74,7 @@
 - LargestArrayElements.java
 - SmallestArrayElements.java
 - SumOfArrayElements.java
+- AvgOfArraysElements.java
 
 ## 2D-Arrays
 
@@ -81,3 +82,4 @@
 - PrintArrayElements.java
 - SmallestArrayElements.java
 - SumOfArrayElements.java
+- AvgOfArrayElements.java
