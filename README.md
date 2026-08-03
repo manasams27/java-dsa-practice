@@ -75,6 +75,8 @@
 - SmallestArrayElements.java
 - SumOfArrayElements.java
 - AvgOfArraysElements.java
+- CountEvenOrOdd.java
+- LinearSearch.java
 
 ## 2D-Arrays
 
@@ -83,3 +85,5 @@
 - SmallestArrayElements.java
 - SumOfArrayElements.java
 - AvgOfArrayElements.java
+- CountEvenOrOdd.java
+- LinearSearch.java
