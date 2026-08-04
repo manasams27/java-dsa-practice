@@ -67,6 +67,10 @@
 - InvertedFullPyramid.java
 - RepeatingAlphabetPattern.java
 - StarPattern.java
+- SolidRhombus.java
+- PrintNumbers.java
+- Example1.java
+- Example2.java
 
 ## Arrays
 
