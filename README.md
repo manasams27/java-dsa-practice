@@ -81,6 +81,8 @@
 - AvgOfArraysElements.java
 - CountEvenOrOdd.java
 - LinearSearch.java
+- ReverseAnArray.java
+- CopyAnArray.java
 
 ## 2D-Arrays
 
@@ -91,3 +93,4 @@
 - AvgOfArrayElements.java
 - CountEvenOrOdd.java
 - LinearSearch.java
+- CountPosNegZero.java
