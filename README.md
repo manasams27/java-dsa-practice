@@ -83,6 +83,9 @@
 - LinearSearch.java
 - ReverseAnArray.java
 - CopyAnArray.java
+- CountPosNegZero.java
+- SecondLargestElement.java
+- SecondSmallestElement.java
 
 ## 2D-Arrays
 
@@ -94,3 +97,5 @@
 - CountEvenOrOdd.java
 - LinearSearch.java
 - CountPosNegZero.java
+- PrintMatrixRowwise.java
+- PrintMatrixColumnwise.java
