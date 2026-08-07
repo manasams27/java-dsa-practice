@@ -86,6 +86,7 @@
 - CountPosNegZero.java
 - SecondLargestElement.java
 - SecondSmallestElement.java
+- RemoveDuplicateElements.java
 
 ## 2D-Arrays
 
@@ -99,3 +100,4 @@
 - CountPosNegZero.java
 - PrintMatrixRowwise.java
 - PrintMatrixColumnwise.java
+- SumOfEachRow.java
