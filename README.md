@@ -87,6 +87,9 @@
 - SecondLargestElement.java
 - SecondSmallestElement.java
 - RemoveDuplicateElements.java
+- CheckArraySorted.java
+- RotateLeft.java
+- RotateRight.java
 
 ## 2D-Arrays
 
@@ -101,3 +104,6 @@
 - PrintMatrixRowwise.java
 - PrintMatrixColumnwise.java
 - SumOfEachRow.java
+- SumOfEachColumn.java
+- MaximumElementInRow.java
+- MinimumElementInColumn.java
