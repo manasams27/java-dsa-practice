@@ -90,6 +90,8 @@
 - CheckArraySorted.java
 - RotateLeft.java
 - RotateRight.java
+- RotateKPositions.java
+- MoveZeroAtEnd.java
 
 ## 2D-Arrays
 
@@ -107,3 +109,4 @@
 - SumOfEachColumn.java
 - MaximumElementInRow.java
 - MinimumElementInColumn.java
+- mainDiagonalElements.java
