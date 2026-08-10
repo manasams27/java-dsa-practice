@@ -92,6 +92,8 @@
 - RotateRight.java
 - RotateKPositions.java
 - MoveZeroAtEnd.java
+- FrequencyOfElements.java
+- MergeTwoArrays.java
 
 ## 2D-Arrays
 
@@ -110,3 +112,6 @@
 - MaximumElementInRow.java
 - MinimumElementInColumn.java
 - mainDiagonalElements.java
+- SecondaryDiagonalElements.java
+- SumOfMainDiagonal.java
+- SumOfSecondaryDiagonal.java
