@@ -1,5 +1,5 @@
 import java.util.*;
-public class SumOfMainDiaonal{
+public class SumOfMainDiagonal{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int r = sc.nextInt();
@@ -17,6 +17,7 @@ public class SumOfMainDiaonal{
                     sum += arr[i][j];
                 }
             }
+
         }
         System.out.println(sum);
     }
