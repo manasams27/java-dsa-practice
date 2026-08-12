@@ -94,6 +94,7 @@
 - MoveZeroAtEnd.java
 - FrequencyOfElements.java
 - MergeTwoArrays.java
+- FindDuplicateElements.java
 
 ## 2D-Arrays
 
@@ -115,3 +116,4 @@
 - SecondaryDiagonalElements.java
 - SumOfMainDiagonal.java
 - SumOfSecondaryDiagonal.java
+- SymmetricOrNot.java
