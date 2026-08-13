@@ -95,6 +95,8 @@
 - FrequencyOfElements.java
 - MergeTwoArrays.java
 - FindDuplicateElements.java
+- FindMissingElement.java
+
 
 ## 2D-Arrays
 
