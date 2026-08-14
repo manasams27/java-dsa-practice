@@ -96,6 +96,9 @@
 - MergeTwoArrays.java
 - FindDuplicateElements.java
 - FindMissingElement.java
+- ElementAppearsOnce.java
+- UnionOf2SortedArrays.java
+- IntersectionOf2Arrays.java
 
 
 ## 2D-Arrays
