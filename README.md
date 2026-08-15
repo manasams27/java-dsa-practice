@@ -99,6 +99,7 @@
 - ElementAppearsOnce.java
 - UnionOf2SortedArrays.java
 - IntersectionOf2Arrays.java
+- SumEqualToTarget.java
 
 
 ## 2D-Arrays
@@ -122,3 +123,4 @@
 - SumOfMainDiagonal.java
 - SumOfSecondaryDiagonal.java
 - SymmetricOrNot.java
+- AddTwoMatrices.java
