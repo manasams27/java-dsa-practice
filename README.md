@@ -100,6 +100,7 @@
 - UnionOf2SortedArrays.java
 - IntersectionOf2Arrays.java
 - SumEqualToTarget.java
+- MaxDiffOf2Elements.java
 
 
 ## 2D-Arrays
@@ -124,3 +125,10 @@
 - SumOfSecondaryDiagonal.java
 - SymmetricOrNot.java
 - AddTwoMatrices.java
+- Subtract2Matrices.java
+- MultiplicationOf2Matrices.java
+
+## Strings
+
+- StringLength.java
+- VowelsCount.java
