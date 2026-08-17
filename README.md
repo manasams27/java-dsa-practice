@@ -101,6 +101,7 @@
 - IntersectionOf2Arrays.java
 - SumEqualToTarget.java
 - MaxDiffOf2Elements.java
+- CountConsecutiveOnes.java
 
 
 ## 2D-Arrays
@@ -127,8 +128,12 @@
 - AddTwoMatrices.java
 - Subtract2Matrices.java
 - MultiplicationOf2Matrices.java
+- TransposeOfMatrix.java
+- Check2MatricesAreEqual.java
 
 ## Strings
 
 - StringLength.java
 - VowelsCount.java
+- VowelsConsonents.java
+- CountDigits.java
