@@ -102,6 +102,7 @@
 - SumEqualToTarget.java
 - MaxDiffOf2Elements.java
 - CountConsecutiveOnes.java
+- LeadersInAnArray.java
 
 
 ## 2D-Arrays
@@ -130,6 +131,8 @@
 - MultiplicationOf2Matrices.java
 - TransposeOfMatrix.java
 - Check2MatricesAreEqual.java
+- CheckIdentityMatrix.java
+- CheckMatrixIsDiagonal.java
 
 ## Strings
 
