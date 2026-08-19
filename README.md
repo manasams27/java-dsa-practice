@@ -103,6 +103,7 @@
 - MaxDiffOf2Elements.java
 - CountConsecutiveOnes.java
 - LeadersInAnArray.java
+- TrapRainWater.java
 
 
 ## 2D-Arrays
@@ -133,6 +134,7 @@
 - Check2MatricesAreEqual.java
 - CheckIdentityMatrix.java
 - CheckMatrixIsDiagonal.java
+- UpperTriangularMatrix.java
 
 ## Strings
 
@@ -140,3 +142,5 @@
 - VowelsCount.java
 - VowelsConsonents.java
 - CountDigits.java
+- CountUpperCaseLowerCase.java
+- CountSpaces.java
