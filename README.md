@@ -144,3 +144,6 @@
 - CountDigits.java
 - CountUpperCaseLowerCase.java
 - CountSpaces.java
+- PrintEachInNewLine.java
+- ReverseString.java
+- StringIsPalindrome.java
