@@ -147,3 +147,8 @@
 - PrintEachInNewLine.java
 - ReverseString.java
 - StringIsPalindrome.java
+- ConverToUppercase.java
+- ConvertToLowercase.java
+- RemoveSpacesInString.java
+- RemoveVowels.java
+- CharacterOccursOnlyOnce.java
