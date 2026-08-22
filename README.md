@@ -152,3 +152,6 @@
 - RemoveSpacesInString.java
 - RemoveVowels.java
 - CharacterOccursOnlyOnce.java
+- FindFirstRepeatedCharacter.java
+- FrequecyOfEachCharacter.java
+- MostFrequentCharacter.java
